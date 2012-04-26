@@ -1,4 +1,5 @@
-AppleScript scriptlet that imports all of the selected notes (or messages)
-in Apple Mail into the selected notebook in Evernote.
+AppleScript scriptlet that imports all of the selected notes or messages of
+Apple Mail into the notebook <myNotebook> (AppleScript variable with the
+default value "Mail Notes") in Evernote.
 
 Created by Garrett Koller
